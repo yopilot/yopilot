@@ -190,31 +190,7 @@ const yogesh = {
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yopilot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yopilot&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yopilot&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
-### 🔥 Contribution Graph
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yopilot&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
 
 ## 🎯 Current Focus Areas
 
@@ -282,9 +258,8 @@ graph TD
 **"Code is poetry, AI is the future, and chess is life!"** ♟️
 
 ---
-
 <sub>💖 Crafted with passion and a lot of ☕ by Yogesh Sharma</sub>
 
-![Snake animation](https://github.com/yopilot/yopilot/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
